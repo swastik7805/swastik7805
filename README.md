@@ -103,18 +103,18 @@ I'm a passionate Computer Science student at **IIIT Bhopal** (B.Tech CSE, CGPA: 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40"> Github Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=swastikiiit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=swastikiiit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=swastik7805&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=swastik7805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastikiiit&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF9800&currStreakLabel=00D9FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik7805&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF9800&currStreakLabel=00D9FF" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swastikiiit&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF9800&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swastik7805&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF9800&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
