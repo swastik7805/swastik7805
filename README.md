@@ -10,11 +10,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Blockchain-brightgreen?style=flat-square" />
- <img src="https://img.shields.io/badge/Stakeholders%20Addressed-5%2B-FF9800?style=flat-square" />
   <br/>
+  <img src="https://img.shields.io/badge/Stakeholders%20Addressed-5%2B-FF9800?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Kanpur%2C%20India-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/IIIT-Bhopal-purple?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=swastikiiit&label=Profile+Views&color=0e75b6&style=flat-square" />
 </p>
 
 <p align="center">
