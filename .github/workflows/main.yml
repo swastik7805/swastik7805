@@ -8,8 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # 👇 YEH SABSE IMPORTANT ADDITION HAI 👇
+    permissions:
+      contents: write 
+    
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Generate Snake
         uses: Platane/snk@v3
