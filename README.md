@@ -178,6 +178,12 @@ I'm a passionate Computer Science student at **IIIT Bhopal** (B.Tech CSE, CGPA: 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swastik7805/Crawler-Engine/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swastik7805/The-Chronicle/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/swastik7805/Backend-chronicle/output/dist/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
   <h3>📄 <a href="https://drive.google.com/file/d/1FI_tLF4bCWAQvxMLF7xIN7r6eCqcPrp_/view?usp=sharing">Check out my Resume</a></h3>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R0aHZuMWFhdDN4MHJuZXVzeHNxd3dkMmNveHZxd3VydWh0cmtxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
