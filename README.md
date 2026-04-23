@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="coding-gif" width="400"/>
-</div>
+</div> 
 
 <h3 align="center">
  ⚡ Turning coffee and complex logic into high-performance software. ⚡
