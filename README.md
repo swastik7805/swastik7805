@@ -93,7 +93,7 @@ I'm a passionate Computer Science student at **IIIT Bhopal** (B.Tech CSE, CGPA: 
 | 🔵 Codeforces | **1401 (Specialist)** |
 | 🎯 OPTIGO (Inter-IIIT) | **33rd / 1,000+** participants — Top 5% |
 | 📊 CodeChef Starters 156 | **172nd / 43,114** participants |
-| 🧩 DSA Problems | **1500+** solved across platforms |
+| 🧩 DSA Problems | **1600+** solved across platforms |
 
 </div>
 
