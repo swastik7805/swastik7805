@@ -35,7 +35,7 @@ I'm a passionate Computer Science student at **IIIT Bhopal** (B.Tech CSE, CGPA: 
 
 - 🎓 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
 - 💡 Keen interest in **Backend, DevOps, Generative AI, and Blockchain**
-- 🧩 Competitive programmer with **1450+ DSA problems** solved
+- 🧩 Competitive programmer with **1600+ DSA problems** solved
 - 🔍 Currently exploring **Microservices Architecture** and **System Design**
 - 🌱 Always learning, always building
 
