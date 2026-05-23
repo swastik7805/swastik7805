@@ -44,7 +44,7 @@ I'm a passionate Computer Science student at **IIIT Bhopal** (B.Tech CSE, CGPA: 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Experience
 
 <details open>
-<summary><b>🚀 Full Stack Intern — Suntek AI</b> &nbsp;<code>Oct 2025 – Mar 2026</code></summary>
+<summary><b>🚀 Full Stack Intern — Suntek AI</b> &nbsp;<code>Oct 2025 – May 2026</code></summary>
 <br/>
 
 >  Production-grade backend engineering, AI tooling, and cloud infrastructure at scale — serving 5+ enterprise stakeholders.
